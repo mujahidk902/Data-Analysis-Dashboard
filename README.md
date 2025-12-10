@@ -46,9 +46,7 @@ Day vs Night
 
 🛠 Tools & Technologies Used
 
-Power BI / Tableau (mention the one you used)
-
-Microsoft Excel / CSV Dataset
+Microsoft Excel
 
 Data Cleaning & Transformation
 
