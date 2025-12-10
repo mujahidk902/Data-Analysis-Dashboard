@@ -54,6 +54,7 @@ Microsoft Excel
 Data Cleaning & Transformation
 
 Data Visualization & Dashboard Design
-
+## Dashboard
 <a href="http://github.com/mujahidk902/Data-Analysis-Dashboard/blob/main/Screenshot%202025-12-10%20113331.png">VIEW DASHBOARD</a>
 
+C:\Users\mujah\OneDrive\Pictures\Screenshots
