@@ -57,4 +57,4 @@ Data Visualization & Dashboard Design
 ## Dashboard
 <a href="http://github.com/mujahidk902/Data-Analysis-Dashboard/blob/main/Screenshot%202025-12-10%20113331.png">VIEW DASHBOARD</a>
 
-C:\Users\mujah\OneDrive\Pictures\Screenshots
+<img width="1637" height="875" alt="Screenshot 2025-12-10 113331" src="https://github.com/user-attachments/assets/33ed6857-e376-4b3d-bd7d-782feaf52425" />
