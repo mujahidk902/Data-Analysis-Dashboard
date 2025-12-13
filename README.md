@@ -2,8 +2,10 @@
 ## Project Objective
 I developed a comprehensive project in Excel, creating multiple dashboards and tables to analyze the data. This process involved several stages, including data preprocessing, data cleaning, and data visualization.
 
-##Dataset Used
+## Dataset Used
 - <a href="https://github.com/mujahidk902/Data-Analysis-Dashboard/blob/main/Road%20Accident%20Data%20-%20Copy.xlsx">DATASET</a>
+<img width="1637" height="875" alt="Screenshot 2025-12-10 113331" src="https://github.com/user-attachments/assets/33ed6857-e376-4b3d-bd7d-782feaf52425" />
+
 
 🚦 Road Accident Analysis Dashboard (2021–2022)
 📌 Project Overview
@@ -57,4 +59,3 @@ Data Visualization & Dashboard Design
 ## Dashboard
 <a href="http://github.com/mujahidk902/Data-Analysis-Dashboard/blob/main/Screenshot%202025-12-10%20113331.png">VIEW DASHBOARD</a>
 
-<img width="1637" height="875" alt="Screenshot 2025-12-10 113331" src="https://github.com/user-attachments/assets/33ed6857-e376-4b3d-bd7d-782feaf52425" />
